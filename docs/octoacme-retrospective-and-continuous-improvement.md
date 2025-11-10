@@ -14,8 +14,11 @@ After each sprint, release, or important milestone. Also after incidents.
 
 ## Running a Retrospective
 - Timebox: 45–75 minutes depending on team size
+- Facilitated by Scrum Master or Project Manager
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- Include cross-functional perspectives (Development, UX, Security, Support, Data)
+- Review metrics and data from the sprint/release (with Data Analyst input)
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
@@ -29,5 +32,8 @@ After each sprint, release, or important milestone. Also after incidents.
 - Success criteria:
 
 ## Continuous Improvement Culture
-- Measure impact of action items
+- Measure impact of action items (use data and metrics)
 - Celebrate improvements and make small, iterative changes
+- Encourage cross-functional collaboration and knowledge sharing
+- Rotate facilitators to build shared ownership of process
+- Review security, usability, and support metrics as part of improvement focus
